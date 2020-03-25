@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "name": "wproxy",
+  "version": "1.0.0",
+  "description": "simple web page proxy",
+  "main": "index.js",
+  "author": "Eric Lo <lxneng@gmail.com>",
+  "license": "MIT"
+}

@@ -1,0 +1,6 @@
+name = "wproxy"
+type = "javascript"
+account_id = "a636b923877132dc2c76831bcd86160d"
+workers_dev = true
+route = ""
+zone_id = ""
